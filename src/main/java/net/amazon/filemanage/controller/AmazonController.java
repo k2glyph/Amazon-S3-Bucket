@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.nepallink.urbfinder.controller;
+package net.amazon.filemanage.controller;
 
-import net.nepallink.urbfinder.IFileUploadService;
-import net.nepallink.urbfinder.dto.Response;
+import net.amazon.filemanage.IFileUploadService;
+import net.amazon.filemanage.dto.Response;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.RequestMapping;

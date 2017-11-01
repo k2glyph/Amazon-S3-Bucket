@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.nepallink.urbfinder.service;
+package net.amazon.filemanage.service;
 
-import net.nepallink.urbfinder.IFileUploadService;
-import net.nepallink.urbfinder.application.Application;
-import net.nepallink.urbfinder.configuration.ApplicationConfig;
-import net.nepallink.urbfinder.dto.Response;
+import net.amazon.filemanage.IFileUploadService;
+import net.amazon.filemanage.application.Application;
+import net.amazon.filemanage.configuration.ApplicationConfig;
+import net.amazon.filemanage.dto.Response;
 import org.junit.Assert;
 import org.junit.FixMethodOrder;
 import org.junit.Test;

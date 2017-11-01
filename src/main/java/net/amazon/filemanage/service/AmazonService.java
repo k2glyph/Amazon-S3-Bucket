@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.nepallink.urbfinder.service;
+package net.amazon.filemanage.service;
 
 import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.model.CannedAccessControlList;
@@ -12,8 +12,8 @@ import java.io.File;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
-import net.nepallink.urbfinder.IFileUploadService;
-import net.nepallink.urbfinder.dto.Response;
+import net.amazon.filemanage.IFileUploadService;
+import net.amazon.filemanage.dto.Response;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

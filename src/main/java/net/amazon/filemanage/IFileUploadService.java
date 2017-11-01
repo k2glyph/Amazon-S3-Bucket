@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.nepallink.urbfinder;
+package net.amazon.filemanage;
 
-import net.nepallink.urbfinder.dto.Response;
+import net.amazon.filemanage.dto.Response;
 
 /**
  *

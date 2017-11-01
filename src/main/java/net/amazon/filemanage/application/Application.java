@@ -1,4 +1,4 @@
-package net.nepallink.urbfinder.application;
+package net.amazon.filemanage.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
